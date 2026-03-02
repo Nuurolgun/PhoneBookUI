@@ -1,0 +1,18 @@
+{
+  "TITLE": "Phone Book",
+  "RECORD_COUNT": "Record Count",
+  "NEW_CONTACT": "+ New Contact",
+  "LOADING": "Loading data, please wait...",
+  "LANG_TR": "TR",
+  "LANG_EN": "EN",
+
+  "COL_FIRSTNAME": "First Name",
+  "COL_LASTNAME": "Last Name",
+  "COL_PHONE": "Phone",
+  "COL_EMAIL": "Email",
+  "COL_ADDRESS": "Address",
+  "COL_ACTIONS": "Actions",
+
+  "BTN_EDIT": "Edit",
+  "BTN_DELETE": "Delete"
+}

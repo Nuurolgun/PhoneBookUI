@@ -1,0 +1,18 @@
+{
+  "TITLE": "Telefon Rehberi",
+  "RECORD_COUNT": "Kayıt Sayısı",
+  "NEW_CONTACT": "+ Yeni Kişi",
+  "LOADING": "Veriler yükleniyor, lütfen bekleyin...",
+  "LANG_TR": "TR",
+  "LANG_EN": "EN",
+
+  "COL_FIRSTNAME": "Ad",
+  "COL_LASTNAME": "Soyad",
+  "COL_PHONE": "Telefon",
+  "COL_EMAIL": "E-posta",
+  "COL_ADDRESS": "Adres",
+  "COL_ACTIONS": "İşlemler",
+
+  "BTN_EDIT": "Düzenle",
+  "BTN_DELETE": "Sil"
+}
